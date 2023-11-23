@@ -1,0 +1,28 @@
+# Dependencias
+/node_modules
+
+# Archivos de registro
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Directorio de salida de compilación
+/dist
+
+# Directorio de salida de compilación para aplicaciones creadas con create-react-app
+/build
+
+# Archivos de configuración de entorno
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Directorio de caché de npm
+/.npm
+
+# Archivos de configuración del editor
+/.vscode
+/*.sublime-project
+/*.sublime-workspace
